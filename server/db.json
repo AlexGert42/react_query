@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "human 1",
+      "phone": "(999) 999-99-99",
+      "organization": "organization 1",
+      "userId": "1",
+      "id": 1
+    },
+    {
+      "name": "human 2",
+      "phone": "(999) 999-99-99",
+      "organization": "organization 2",
+      "userId": "1",
+      "id": 2
+    },
+    {
+      "name": "human 3",
+      "phone": "(999) 999-99-99",
+      "organization": "organization 3",
+      "userId": "1",
+      "id": 3
+    },
+    {
+      "name": "human 4",
+      "phone": "(999) 999-99-99",
+      "organization": "organization 4",
+      "userId": "1",
+      "id": 4
+    },
+    {
+      "name": "human 5",
+      "phone": "(999) 999-99-99",
+      "organization": "organization 5",
+      "userId": "1",
+      "id": 5
+    },
+    {
+      "name": "human 1",
+      "phone": "(888) 888-88-88",
+      "organization": "organization 1",
+      "userId": "2",
+      "id": 6
+    }
+  ]
+}
